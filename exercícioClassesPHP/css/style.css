@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+}
+header{
+    background-color: #66cdaa;
+    height: 10vh;
+    font-size: 2vh;;
+    color: antiquewhite;
+    text-align: center;
+}
+header h1{
+    padding-top: 2.5vh;
+}
